@@ -1,0 +1,92 @@
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\ApplicationInsights.config
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\csc.exe
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\vbc.exe
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\myProject.dll.config
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\myProject.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\myProject.pdb
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.Web.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Newtonsoft.Json.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Swashbuckle.Core.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\System.Net.Http.Formatting.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\System.Web.Http.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\System.Web.Http.WebHost.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\WebActivatorEx.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.Web.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\Newtonsoft.Json.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\System.Net.Http.Formatting.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\System.Web.Http.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\bin\System.Web.Http.WebHost.xml
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.csprojResolveAssemblyReference.cache
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.dll
+C:\Users\tarjk\Documents\Visual Studio 2015\Projects\myProject\myProject\obj\Debug\myProject.pdb
+C:\Users\tarjk\Desktop\myProject\myProject\bin\ApplicationInsights.config
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\csc.exe
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\vbc.exe
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\tarjk\Desktop\myProject\myProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tarjk\Desktop\myProject\myProject\bin\myProject.dll.config
+C:\Users\tarjk\Desktop\myProject\myProject\bin\myProject.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\myProject.pdb
+C:\Users\tarjk\Desktop\myProject\myProject\bin\EntityFramework.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\EntityFramework.SqlServer.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.Web.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Newtonsoft.Json.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Swashbuckle.Core.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\System.Net.Http.Formatting.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\System.Web.Http.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\System.Web.Http.WebHost.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\WebActivatorEx.dll
+C:\Users\tarjk\Desktop\myProject\myProject\bin\EntityFramework.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\EntityFramework.SqlServer.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.Web.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\Newtonsoft.Json.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\System.Net.Http.Formatting.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\System.Web.Http.xml
+C:\Users\tarjk\Desktop\myProject\myProject\bin\System.Web.Http.WebHost.xml
+C:\Users\tarjk\Desktop\myProject\myProject\obj\Debug\myProject.csprojResolveAssemblyReference.cache
+C:\Users\tarjk\Desktop\myProject\myProject\obj\Debug\myProject.dll
+C:\Users\tarjk\Desktop\myProject\myProject\obj\Debug\myProject.pdb

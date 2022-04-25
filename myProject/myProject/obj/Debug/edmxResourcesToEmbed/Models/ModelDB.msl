@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB01ModelStoreContainer" CdmEntityContainer="DB01Entities">
+    <EntitySetMapping Name="Admin">
+      <EntityTypeMapping TypeName="DB01Model.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="adminId" ColumnName="adminId" />
+          <ScalarProperty Name="adminKatId" ColumnName="adminKatId" />
+          <ScalarProperty Name="adminAdi" ColumnName="adminAdi" />
+          <ScalarProperty Name="adminSoyadi" ColumnName="adminSoyadi" />
+          <ScalarProperty Name="adminSifre" ColumnName="adminSifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ders">
+      <EntityTypeMapping TypeName="DB01Model.Ders">
+        <MappingFragment StoreEntitySet="Ders">
+          <ScalarProperty Name="dersId" ColumnName="dersId" />
+          <ScalarProperty Name="dersKatId" ColumnName="dersKatId" />
+          <ScalarProperty Name="dersAdi" ColumnName="dersAdi" />
+          <ScalarProperty Name="dersKredi" ColumnName="dersKredi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kayit">
+      <EntityTypeMapping TypeName="DB01Model.Kayit">
+        <MappingFragment StoreEntitySet="Kayit">
+          <ScalarProperty Name="kayitId" ColumnName="kayitId" />
+          <ScalarProperty Name="kayitDersId" ColumnName="kayitDersId" />
+          <ScalarProperty Name="kayitOgrId" ColumnName="kayitOgrId" />
+          <ScalarProperty Name="kayitOdevId" ColumnName="kayitOdevId" />
+          <ScalarProperty Name="kayitAdminId" ColumnName="kayitAdminId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Odev">
+      <EntityTypeMapping TypeName="DB01Model.Odev">
+        <MappingFragment StoreEntitySet="Odev">
+          <ScalarProperty Name="odevId" ColumnName="odevId" />
+          <ScalarProperty Name="odevKatId" ColumnName="odevKatId" />
+          <ScalarProperty Name="odevAdi" ColumnName="odevAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ogrenci">
+      <EntityTypeMapping TypeName="DB01Model.Ogrenci">
+        <MappingFragment StoreEntitySet="Ogrenci">
+          <ScalarProperty Name="ogrId" ColumnName="ogrId" />
+          <ScalarProperty Name="ogrKatId" ColumnName="ogrKatId" />
+          <ScalarProperty Name="ogrAdi" ColumnName="ogrAdi" />
+          <ScalarProperty Name="ogrSoyadi" ColumnName="ogrSoyadi" />
+          <ScalarProperty Name="ogrNo" ColumnName="ogrNo" />
+          <ScalarProperty Name="ogrAciklama" ColumnName="ogrAciklama" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
